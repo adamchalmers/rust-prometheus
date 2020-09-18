@@ -25,7 +25,7 @@ This crate provides several optional components which can be enabled via [Cargo 
 
 - `process`: Enable [process metrics](https://prometheus.io/docs/instrumenting/writing_clientlibs/#process-metrics) support.
 
-- `push`: Enable [push metrics](https://prometheus.io/docs/instrumenting/pushing/) support.
+- `push`: Enable [push metrics](https://prometheus.io/docs/instrumenting/pushing/) support with blocking network calls.
 
 ### Static Metric
 
