@@ -108,7 +108,7 @@ This library supports four features:
   using the pre-generated client.
 * `nightly`: Enable nightly only features.
 * `process`: For collecting process info.
-* `push`: Enable push support.
+* `push`: Enable push support using blocking network calls. Incompatible with `push`.
 
 */
 
